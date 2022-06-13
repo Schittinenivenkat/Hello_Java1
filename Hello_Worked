@@ -1,0 +1,6 @@
+pulic class Hello {
+  public staic void main(String[] args) {
+  //print
+  System.out.println("hello,  Worked now");
+  }
+  }
